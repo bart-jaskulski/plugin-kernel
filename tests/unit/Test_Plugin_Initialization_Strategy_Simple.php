@@ -8,7 +8,8 @@ class Test_Plugin_Initialization_Strategy_Simple extends \WP_Mock\Tools\TestCase
 
 	public function setUp() {
 		WP_Mock::setUp();
-	}
+        $this->markTestSkipped('Move this test to paid plugin flow library!');
+    }
 
 	public function tearDown() {
 		WP_Mock::tearDown();
