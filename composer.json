@@ -1,5 +1,6 @@
 {
   "name": "wpdesk/wp-plugin-flow-common",
+  "license": "MIT",
   "authors": [
     {
       "name": "Krzysiek",
