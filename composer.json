@@ -1,6 +1,9 @@
 {
   "name": "wpdesk/wp-plugin-flow-common",
+  "description": "WP Desk Plugin Flow Common",
   "license": "MIT",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://gitlab.com/wpdesk/library/wp-plugin-flow-common",
   "authors": [
     {
       "name": "Krzysiek",
