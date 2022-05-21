@@ -7,6 +7,7 @@
       "email": "krzysiek@wpdesk.pl"
     }
   ],
+  "prefer-stable": true,
   "require": {
     "php": ">=7.0",
     "wpdesk/wp-basic-requirements": "^3.2.3",
