@@ -1,3 +1,7 @@
+## [1.0.3] - 2022-05-25
+### Fixed
+- Added missing `wpdesk/wp-wpdesk-tracker` library
+
 ## [1.0.2] - 2022-05-21
 ### Added
 - description
